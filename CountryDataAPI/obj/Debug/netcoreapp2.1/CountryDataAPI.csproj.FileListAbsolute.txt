@@ -1,0 +1,11 @@
+C:\Users\Kodu\Desktop\CountryDataAPI\CountryDataAPI\bin\Debug\netcoreapp2.1\CountryDataAPI.deps.json
+C:\Users\Kodu\Desktop\CountryDataAPI\CountryDataAPI\bin\Debug\netcoreapp2.1\CountryDataAPI.runtimeconfig.json
+C:\Users\Kodu\Desktop\CountryDataAPI\CountryDataAPI\bin\Debug\netcoreapp2.1\CountryDataAPI.runtimeconfig.dev.json
+C:\Users\Kodu\Desktop\CountryDataAPI\CountryDataAPI\bin\Debug\netcoreapp2.1\CountryDataAPI.dll
+C:\Users\Kodu\Desktop\CountryDataAPI\CountryDataAPI\obj\Debug\netcoreapp2.1\CountryDataAPI.csprojAssemblyReference.cache
+C:\Users\Kodu\Desktop\CountryDataAPI\CountryDataAPI\obj\Debug\netcoreapp2.1\CountryDataAPI.csproj.CoreCompileInputs.cache
+C:\Users\Kodu\Desktop\CountryDataAPI\CountryDataAPI\obj\Debug\netcoreapp2.1\CountryDataAPI.AssemblyInfoInputs.cache
+C:\Users\Kodu\Desktop\CountryDataAPI\CountryDataAPI\obj\Debug\netcoreapp2.1\CountryDataAPI.AssemblyInfo.cs
+C:\Users\Kodu\Desktop\CountryDataAPI\CountryDataAPI\bin\Debug\netcoreapp2.1\CountryDataAPI.pdb
+C:\Users\Kodu\Desktop\CountryDataAPI\CountryDataAPI\obj\Debug\netcoreapp2.1\CountryDataAPI.dll
+C:\Users\Kodu\Desktop\CountryDataAPI\CountryDataAPI\obj\Debug\netcoreapp2.1\CountryDataAPI.pdb
